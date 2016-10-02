@@ -20,3 +20,4 @@ Thanks for the contribution of original developer @[[dsscicin@163.com][cicin]].
 Wating...
 * References
 - [[http://app.wiz.cn/?id=1983][cTrack - 为知笔记应用中心]]
+- [[http://www.wiz.cn/plugin/ctrack][为知笔记 | 插件：cTrack]]
