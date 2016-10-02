@@ -1,0 +1,22 @@
+#+TITLE: cTrack
+#+DATE: <2016-10-02 Sun 17:00>
+#+TAGS: Original
+#+LAYOUT: post
+#+CATEGORIES: SoftTech
+
+#+OPTIONS: ^:{}
+#+OPTIONS: html-postamble:nil
+
+#+INFOJS_OPT: view:nil toc:t ltoc:nil mouse:underline buttons:0 path:http://thomasf.github.io/solarized-css/org-info.min.js
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://thomasf.github.io/solarized-css/solarized-light.min.css" />
+
+* Introduction
+This repo is just a fork of cTrack at present.
+
+cTrack is a knowledge review tool for Wiznote.
+
+Thanks for the contribution of original developer @[[dsscicin@163.com][cicin]].
+* Features
+Wating...
+* References
+- [[http://app.wiz.cn/?id=1983][cTrack - 为知笔记应用中心]]
